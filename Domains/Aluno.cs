@@ -9,6 +9,8 @@ namespace APIBoletim.Domains
     {
         public int Idaluno { get; set; }
         public string Nome { get; set; }
-        public string Idade { get; set; }
+
+        public string RA { get; set; }
+        public int Idade { get; set; }
     }
 }

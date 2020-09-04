@@ -1,8 +1,6 @@
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csprojAssemblyReference.cache
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.AssemblyInfoInputs.cache
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.AssemblyInfo.cs
-C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CoreCompileInputs.cache
-C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -18,3 +16,12 @@ C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.dll
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.pdb
 C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.genruntimeconfig.cache
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yan\Documents\API_Yan\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CopyComplete
